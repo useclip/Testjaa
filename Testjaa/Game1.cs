@@ -9,6 +9,7 @@ namespace Testjaa
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         int weyippee;
+        public bool HelpLeonardo;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
