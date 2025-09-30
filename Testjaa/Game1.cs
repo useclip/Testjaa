@@ -9,6 +9,7 @@ namespace Testjaa
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         int weyippee;
+        int weyippee2;
         int heyippee;
         private int Edok;
         public Game1()
