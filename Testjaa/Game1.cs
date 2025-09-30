@@ -8,6 +8,8 @@ namespace Testjaa
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        int weyippee;
+        int heyippee;
         private int Edok;
         public Game1()
         {
